@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PntraNegra
 - 👀 I’m interested in Music and front end developement
-- 🌱 I’m currently learning bootstrap
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on random creative ideas
 - 📫 How to reach me <a href="mailto:mr.cervantesgaona@gmail.com">mr.cervantesgaona@gmail.com</a>
 
